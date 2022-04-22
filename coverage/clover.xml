@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1650611731302" clover="3.2.0">
-  <project timestamp="1650611731302" name="All files">
-    <metrics statements="19" coveredstatements="19" conditionals="3" coveredconditionals="2" methods="5" coveredmethods="5" elements="27" coveredelements="26" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
+<coverage generated="1650613930942" clover="3.2.0">
+  <project timestamp="1650613930942" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="3" coveredconditionals="2" methods="5" coveredmethods="5" elements="29" coveredelements="28" complexity="0" loc="21" ncloc="21" packages="1" files="4" classes="4"/>
     <file name="arraysum.js" path="C:\Users\idris\Desktop\learn\src\arraysum.js">
       <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="5" count="1" type="cond" truecount="0" falsecount="1"/>
@@ -12,26 +12,28 @@
       <line num="14" count="1" type="stmt"/>
     </file>
     <file name="factorielle.js" path="C:\Users\idris\Desktop\learn\src\factorielle.js">
-      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="5" count="2" type="stmt"/>
-      <line num="6" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="7" count="2" type="stmt"/>
-      <line num="10" count="3" type="stmt"/>
-      <line num="14" count="2" type="stmt"/>
+      <line num="8" count="52" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="7" type="stmt"/>
+      <line num="10" count="7" type="stmt"/>
+      <line num="13" count="45" type="stmt"/>
+      <line num="15" count="45" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
     </file>
     <file name="ihmock.js" path="C:\Users\idris\Desktop\learn\src\ihmock.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="4" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
     </file>
     <file name="sum.js" path="C:\Users\idris\Desktop\learn\src\sum.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

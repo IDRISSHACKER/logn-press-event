@@ -3,11 +3,16 @@
  * @returns {number}
  */
 const fact = (nb) => {
+    let result;
+
     if (nb <= 0) {
-        return 1;
+        result = 1;
+        return result
     }
 
-    return nb * fact(nb - 1);
+    result = nb * fact(nb - 1);
+
+    return result
 
 }
 
