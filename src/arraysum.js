@@ -1,6 +1,6 @@
 /**
- * @param datas
- * @return total
+ * @param {array} datas
+ * @returns {number}
  */
 const arraySum = (datas = [1, 4, 1]) => {
     let total = 0

@@ -4,7 +4,7 @@
   "description": "learn to create the unit test",
   "main": "sum.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll --verbose  --coverage"
   },
   "repository": "git+https://github.com/IDRISSHACKER/test-unit.git",
   "keywords": [

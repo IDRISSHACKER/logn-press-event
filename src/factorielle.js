@@ -1,6 +1,6 @@
 /**
- * @param nb
- * @return factorielle(nb)
+ * @param {number} nb
+ * @returns {number}
  */
 const fact = (nb) => {
     if (nb <= 0) {

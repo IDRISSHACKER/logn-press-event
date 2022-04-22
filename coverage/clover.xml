@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1650609218070" clover="3.2.0">
-  <project timestamp="1650609218071" name="All files">
+<coverage generated="1650611731302" clover="3.2.0">
+  <project timestamp="1650611731302" name="All files">
     <metrics statements="19" coveredstatements="19" conditionals="3" coveredconditionals="2" methods="5" coveredmethods="5" elements="27" coveredelements="26" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
     <file name="arraysum.js" path="C:\Users\idris\Desktop\learn\src\arraysum.js">
       <metrics statements="6" coveredstatements="6" conditionals="1" coveredconditionals="0" methods="2" coveredmethods="2"/>

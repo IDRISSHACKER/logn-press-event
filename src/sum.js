@@ -1,6 +1,7 @@
 /**
- * @param a, b
- * @return sum
+ * @param {number} a, 
+ * @param {number} b
+ * @return {number}
  */
 const sum = (a, b) => {
     return a + b
