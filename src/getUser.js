@@ -236,9 +236,9 @@ const getUser = (userfinded) => {
       "bs": "target end-to-end models"
     }
   }
-];
+  ];
 
-    return allUsrers.find(user => user.id === userfinded);
+  return allUsrers.find(user => user.id === userfinded) === undefined ? false : allUsrers.find(user => user.id === userfinded);
 
 }
 
