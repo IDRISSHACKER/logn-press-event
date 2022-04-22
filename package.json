@@ -20,5 +20,8 @@
   "homepage": "https://github.com/IDRISSHACKER/test-unit#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
   }
 }
