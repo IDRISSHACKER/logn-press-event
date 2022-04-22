@@ -3,8 +3,6 @@
  * @param {number} b
  * @return {number}
  */
-const sum = (a, b) => {
-    return a + b
-}
+const sum = (nombre1, nombre2) => nombre1 + nombre2
 
 module.exports = sum;
