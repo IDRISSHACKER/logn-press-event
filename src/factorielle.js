@@ -1,3 +1,7 @@
+/**
+ * @param nb
+ * @return factorielle(nb)
+ */
 const fact = (nb) => {
     if (nb <= 0) {
         return 1;
